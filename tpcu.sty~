@@ -1,0 +1,196 @@
+% TPCU style 樣板
+% ----------------------------------------------------------------------------
+
+% 先搞定上下左右邊界 
+% ----------------------------------------------------------------------------
+% Margin package
+%\usepackage{geometry}  % for easy margin settings
+% 邊界設定 margins setting
+\RequirePackage[top=3cm,left=2cm,bottom=3cm,right=2cm]{geometry}
+%\geometry{verbose,a4paper,tmargin=2.5cm,bmargin=2.5cm,lmargin=3cm,rmargin=2cm}
+
+% 行距與縮排
+% ----------------------------------------------------------------------------
+% baselineskip 與 baselinestretch 有何不同？
+%\baselineskip 內定行距為12 pt 。為了要使行距變成內定值的兩倍，可使用下列的命令：
+%\baselineskip=\baselineskip * 1.6
+%\baselineskip=24pt
+% parident 設定行距 32pt
+%\parindent 命令指定每個段落的第一行縮排的量：
+\setlength{\parindent}{32pt}
+
+% global page layout
+\newcommand{\mybaselinestretch}{1.5}  %行距 1.5 倍 + 20%, (約為 double space)
+\renewcommand{\baselinestretch}{\mybaselinestretch}  % 論文行距預設值
+\parskip=2ex  % 段落之間的間隔為兩個 x 的高度
+%\parindent = 0Pt  % 段首內縮由 CJK 控制，所以這裡就設成不內縮
+ 
+% 引用套件 Package，也就是宏包
+% ----------------------------------------------------------------------------
+%\RequirePackage{tabular}
+%\RequirePackage{tabularx,booktabs}
+% 
+% LaTex 的章節用中文表示
+\RequirePackage{titlesec, titletoc}
+% multi-row table
+\RequirePackage{multirow}
+
+% fonts 
+% http://blog.thetys-retz.net/post/2010/11/01/Importing-Ubuntu-Font-Family-in-LaTeX
+%\RequirePackage{Ubuntu}
+%\RequirePackage{times}
+% 這種字會造成英文複製亂碼 helvet, Helvetica
+% ref: http://www.macfreek.nl/memory/Fonts_in_LaTeX#Using_LaTeX_Fonts
+%\RequirePackage{helvet}
+%\RequirePackage{palatino}
+% newcent 字體
+%\RequirePackage{newcent}
+\RequirePackage{array}
+\RequirePackage{graphicx}
+%\RequirePackage{CJKutf8} % macro for Chinese/Japanese/Korean processing
+%\RequirePackage{CJKnumb} % for Chinese numbering capability
+%\RequirePackage{CJKulem} %問題是劃底線不會連接到下一行，因此在一些情況下，可能會不平順的。>然而， LaTeX 有一個現成的巨集，會在強調的部分劃底線
+
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}   %加這個就可以設定字體
+%使用xeCJK，其他的還有CJK或是xCJK, CJKnumber 解決中文數字問題
+%\usepackage[slantfont,boldfont,CJKnumber]{xeCJK}
+\usepackage[slantfont,CJKnumber]{xeCJK}
+\usepackage{CJKfntef}
+
+%設定中英文的字型, 字型的設定可以使用系統內的字型，而不用像以前一樣另外安裝
+% 可挑選的字型包括 
+% 標楷體, 文泉驛正黑, cwTeX 楷書, 文鼎ＰＬ中楷,微軟正黑體
+\setCJKmainfont{文泉驛正黑}
+%中文自動換行
+\XeTeXlinebreaklocale "zh"
+%文字的彈性間距
+\XeTeXlinebreakskip = 0pt plus 1pt
+%設定段落之間的距離
+%\setlength{\parskip}{0.3cm}
+%設定行距
+\linespread{1.5}
+% 無需要指定 uniode ，否則 bookmarks 亂碼
+\RequirePackage[colorlinks, linkcolor=black, citecolor=black, urlcolor=black]{hyperref}
+
+
+%% XeCJK 套件, 但不成功 2012.07.15
+%%加這個就可以設定字體
+%\RequirePackage{fontspec}
+%%使用xeCJK，其他的還有CJK或是xCJK
+%\RequirePackage{xeCJK}
+%設定英文字型，不設的話就會使用預設的字型
+%\setmainfont{Times New Roman}
+%%設定中英文的字型
+%%字型的設定可以使用系統內的字型，而不用像以前一樣另外安裝
+%\setCJKmainfont{標楷體}
+%\setCJKmainfont{cwTeXKai}
+%%中文自動換行
+%\XeTeXlinebreaklocale "zh"
+%%文字的彈性間距
+%\XeTeXlinebreakskip = 0pt plus 1pt
+
+
+% 引用套件 fancyvrb Package，程式碼有行號
+% \verbatiminput{檔案名} 
+% ----------------------------------------------------------------------------
+\RequirePackage{verbatim}
+\RequirePackage{fancyvrb}
+%\begin{Verbatim}[frame=single,%
+%numbers=left,commandchars=*!\#]
+%欲在\LaTeX{} 內照列中文,
+%可使用Verbatim 指令環境。
+%\end{Verbatim}
+
+% 引用套件繪圖
+% ----------------------------------------------------------------------------
+%\RequirePackage{pictex}
+\RequirePackage{amssymb}
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+
+% global CJK setting
+%\CJKindent  %%% ZZZ %%%  段首內縮兩格
+\usepackage{enumitem} 
+%\RequirePackage{CJKvert}
+% 難搞的頁首頁尾
+% ----------------------------------------------------------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\fancyhead[LE,RO]{\textsc \rightmark~~~~}
+\fancyhead[LE,RO]{\slshape \rightmark}
+\fancyhead[LO,RE]{\slshape \leftmark}
+%\fancyfoot[C]{\thepage}
+
+% hyperlinkable table of contents
+% 章節目錄、圖表超連結
+% ----------------------------------------------------------------------------
+%\ifx\myworkflow\mydvipdfmxflow
+%        \usepackage[dvipdfmx, debug, colorlinks, linkcolor=black, citecolor=black, urlcolor=black, unicode]{hyperref}
+%\else
+%        \usepackage[pdftex, debug, colorlinks, linkcolor=black, citecolor=black, urlcolor=black, unicode]{hyperref}
+%\fi
+
+%\usepackage[pdftex, debug, colorlinks, linkcolor=black, citecolor=black, urlcolor=black, unicode]{hyperref}
+% if hyperref is not used (e.g., in LyX application)
+% define dummy \phantomsection for those occurences
+%   in yzu_frontpages.tex, yzu_backpages.tex, my_appendix.tex
+\ifx\hypersetup\undefined
+        \newcommand\phantomsection{}
+\fi
+
+
+% 下列中文名詞的定義，如果以註解方式關閉取消，
+% 則會以系統原先的預設值 (英文) 替代
+% 名詞 \prechaptername 預設值為 Chapter
+% 名詞 \postchaptername 預設值為空字串
+% 名詞 \tablename 預設值為 Table
+% 名詞 \figurename 預設值為 Figure
+\newcommand\prechaptername{Chapter}
+\newcommand\postchaptername{}
+
+\renewcommand\prechaptername{第} % 出現在每一章的開頭的「第 x 章」
+\renewcommand\postchaptername{章}
+\renewcommand{\tablename}{表} % 在文章中 table caption 會以「表 x」表示
+\renewcommand{\figurename}{圖} % 在文章中 figure caption 會以「圖 x」表示
+
+
+% 下列中文名詞的定義，用於論文固定的各部分之命名 (出現於目錄與該頁標題)
+\newcommand{\nameInnerCover}{書名頁}
+\newcommand{\nameCommitteeForm}{論文口試委員審定書}
+\newcommand{\nameCopyrightForm}{授權書}
+\newcommand{\nameCabstract}{中文摘要}
+\newcommand{\nameEabstract}{英文摘要}
+\newcommand{\nameAckn}{誌謝}
+\newcommand{\nameToc}{目錄}
+\newcommand{\nameLot}{表目錄}
+\newcommand{\nameTof}{圖目錄}
+\newcommand{\nameSlist}{符號說明}
+%\newcommand{\nameRef}{參考文獻}
+\newcommand{\nameVita}{自傳}
+
+
+% 重新定義 巨集
+% header, footer 底線寬度
+% ----------------------------------------------------------------------------
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{2pt}
+
+% 項目樣式
+\renewcommand{\theenumi}{\CJKnumber{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\theenumi 、}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+%\renewcommand{\labelenumii}{\alph{enumii}}
+% LaTex 的章節用中文表示, 同時置中
+% Chapter 1 -> 第一章, 如此文件中的標題，
+% vskip-3em 調整 chpater 往上移動
+\titleformat{\chapter}{\centering\Huge\bfseries\vskip-3em}{第\,\CJKnumber{\thechapter}\,章}{1em} {}
+
+% 如果不需要任何浮水印，則請把下列介於 >>> 與 <<< 之間
+% 的文字行關掉 (行首加上百分號)
+%% 浮水印 >>>
+\input{watermark.tex}
+%% <<< 浮水印
+%\usepackage{titletoc}
+% 設定 LaTex 的中文目錄 chinese_catalog.tex
+\input{chinese_catalog}

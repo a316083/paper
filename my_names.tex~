@@ -1,0 +1,103 @@
+%
+% this file is encoded in utf-8
+% v2.0 (Apr. 5, 2009)
+% 填入你的論文題目、姓名等資料
+% 如果題目內有必須以數學模式表示的符號，請用 \mbox{} 包住數學模式，如下範例
+% 如果中文名字是單名，與姓氏之間建議以全形空白填入，如下範例
+% 英文名字中的稱謂，如 Prof. 以及 Dr.，其句點之後請以不斷行空白~代替一般空白，如下範例
+% 如果你的指導教授沒有如預設的三位這麼多，則請把相對應的多餘教授的中文、英文名
+%    的定義以空的大括號表示
+%    如，\renewcommand\advisorCnameB{}
+%          \renewcommand\advisorEnameB{}
+%          \renewcommand\advisorCnameC{}
+%          \renewcommand\advisorEnameC{}
+
+% 論文題目 (中文)
+\renewcommand\cTitle{%
+NFC對智慧型手機消費者行為改變之探討}
+
+% 論文題目 (英文)
+\renewcommand\eTitle{%
+%The empirical study of the change of consumer behaviors after adopting NFC mobile payment services
+%The empirical study of the change of smartphone consumer behaviors after adopting NFC mobile payment services
+%The empircal study of users' behavioral intention towards NFC mobile application
+%The emperical study of smartphone consumer adoption of NFC mobile payment services
+The emperical study of consumer adoption of NFC mobile payment services
+%The emperical study of smartphone consumer towards usage of NFC mobile payment services
+}
+
+% 我的姓名 (中文)
+\renewcommand\myCname{許立鴻}
+
+% 我的姓名 (英文)
+\renewcommand\myEname{Li-Hung Hsu}
+
+% 指導教授A的姓名 (中文)
+\renewcommand\advisorCnameA{秦克堅 博士}
+
+% 指導教授A的姓名 (英文)
+%\renewcommand\advisorEnameA{Dr.~秦克堅英文名字} % Chin, Ko-chien
+\renewcommand\advisorEnameA{Dr.~Ko-chien Chin}
+
+% 指導教授B的姓名 (中文)
+\renewcommand\advisorCnameB{}
+
+% 指導教授B的姓名 (英文)
+\renewcommand\advisorEnameB{}
+
+% 指導教授C的姓名 (中文)
+\renewcommand\advisorCnameC{}
+
+% 指導教授C的姓名 (英文)
+\renewcommand\advisorEnameC{}
+
+% 校名 (中文)
+\renewcommand\univCname{臺北城市科技大學}
+
+% 校名 (英文)
+\renewcommand\univEname{Taipei Chengshih University of Science and Technology}
+
+% 系所名 (中文)
+\renewcommand\deptCname{電子商務研究所}
+
+% 系所全名 (英文)
+\renewcommand\fulldeptEname{Institute of E-Commerce}
+
+% 系所短名 (英文, 用於書名頁學位名領域)
+\renewcommand\deptEname{Institute of E-Commerce}
+
+% 學院英文名 (如無，則以空的大括號表示)
+\renewcommand\collEname{College of Business and Management}
+
+% 學位名 (中文)
+\renewcommand\degreeCname{碩士}
+
+% 學位名 (英文)
+\renewcommand\degreeEname{Master}
+
+% 口試年份 (中文、民國)
+\renewcommand\cYear{一百零一}
+
+% 口試月份 (中文)
+\renewcommand\cMonth{七}
+
+% 口試日 (中文)
+\renewcommand\cDay{二十四}
+
+% 口試年份 (阿拉伯數字、西元)
+\renewcommand\eYear{2012}
+
+% 口試月份 (英文)
+\renewcommand\eMonth{June}
+
+% 口試日 (英文)
+\renewcommand\eDay{29}
+
+
+% 學校所在地 (英文)
+\renewcommand\ePlace{Taipei, Taiwan}
+
+%畢業級別；用於書背列印；若無此需要可忽略
+\newcommand\GraduationClass{100}
+
+%%%%%%%%%%%%%%%%%%%%%%

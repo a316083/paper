@@ -1,0 +1,95 @@
+% TPCU 碩士學位論文 LaTex 樣板
+% 使用 utf-8 編碼
+% v0.5 (Jun. 30, 2012)
+% by Peter
+
+\documentclass[a4paper,12pt]{report}
+
+
+% 引用必要的套件
+\usepackage{tpcu}
+\usepackage[english]{babel}
+\usepackage{blindtext}
+
+%\usepackage{chap_last}
+
+\usepackage{xcolor,tikz}
+%\usepackage[usenames,dvipsnames,pdftex]{xcolor}
+%\def\pgfsysdriver{pgfsys-dvipdfmx.def}
+%\usepackage{tikz,ifthen}
+
+\newcommand{\newchapter}[1]{%
+    \chapter{#1}
+%   \pagestyle{fancy}
+    \thispagestyle{fancy}
+%   \fancyhead[LO,RE]{\slshape \leftmark}
+    \fancyhead[LE,RO]{\slshape \leftmark}
+    \fancyfoot[C]{\thepage}
+%   \fontsize{16}{20}\selectfont
+}
+%\usepackage{CJKnumb} %%% ZZZ %%% for Chinese numbering capability
+%\usepackage[nospace]{cite}  % for smart citation
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  end of preamble
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% define the title
+\begin{document}
+
+\large 
+\fontsize{14}{20}\selectfont
+\input{frontpage}
+% generates the cover page
+% 不使用預設的 title 
+%\maketitle
+
+%\fontsize{14}{20}\selectfont
+%\setlength{\baselineskip}{24pt}
+% insert the table of contents
+%\tableofcontents
+%\listoffigures
+%\listoftables
+
+\input{chapter1}
+\input{chapter2}
+\input{chapter3}
+%\input{chap4}
+
+%\input{chap_last}
+
+%%% 參考文獻
+\newpage
+\phantomsection % for hyperref to register this
+\addcontentsline{toc}{chapter}{\nameRef}
+\renewcommand{\bibname}{\protect\makebox[5cm][s]{\nameRef}}
+%  \makebox{} is fragile; need protect
+\bibliographystyle{ieeetr}  % 使用 IEEE Trans 期刊格式
+%\bibliography{my_bib}
+
+\begin{thebibliography}{1}
+
+%\bibitem{IEEEhowto:kopka}
+%H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
+
+\bibitem{Aaker,D.A.}
+Aaker, D. A. 1996, “Measuring brand equity across products and markets.”California Management Review, 38, No.3, pp. 102-20.
+
+\bibitem{American Medical Association,AMA}
+http://www.ama-assn.org/
+
+\bibitem{Aaker,D.A.}
+Aaker, D. A. "Brand Extensions: The Good, the Bad, and the Ugly”, Sloan 
+Management Review, (Summer), 1990, pp. 47-56. 
+
+\bibitem{Aaker}
+Aaker, D. A.,  ＆ Keller, K. L. “
+Consumer Evaluation of Brand Extension”, 
+Journal of Marketing, 54(January), 1990, pp. 27-41.
+
+\bibitem{Nunnally}
+Nunnally, J.C., (1978), Psychometric Theory, New York: McGraw-Hill. 
+\end{thebibliography}
+\clearpage
+%\end{CJK}
+\end{document}
