@@ -24,10 +24,9 @@
 \contentsline {section}{\numberline {2.6}La jolla樂活雅}{13}{section.2.6}
 \contentsline {chapter}{\numberline {3}研究過程}{15}{chapter.3}
 \contentsline {chapter}{\numberline {4}研究結果展示}{16}{chapter.4}
-\contentsline {chapter}{\numberline {5}結論與建議}{23}{chapter.5}
-\contentsline {section}{\numberline {5.1}結論}{23}{section.5.1}
-\contentsline {section}{\numberline {5.2}未來發展建議}{23}{section.5.2}
-\contentsline {section}{\numberline {5.3}後續研究方向}{24}{section.5.3}
-\contentsline {chapter}{\numberline {6}研究生必讀:如何交代你的「研究方法」}{25}{chapter.6}
+\contentsline {chapter}{\numberline {5}結論與建議}{26}{chapter.5}
+\contentsline {section}{\numberline {5.1}結論}{26}{section.5.1}
+\contentsline {section}{\numberline {5.2}未來發展建議}{26}{section.5.2}
+\contentsline {section}{\numberline {5.3}後續研究方向}{27}{section.5.3}
 \contentsline {chapter}{參考文獻}{28}{section*.14}
 \contentsfinish 
