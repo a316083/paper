@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  22 MAY 2013 03:08
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  22 MAY 2013 04:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1935,171 +1935,23 @@ Missing character: There is no 變 in font [lmroman12-regular]:mapping=tex-text
 !
 Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
 !
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [19]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 
 
-LaTeX Warning: Reference `tab:r1' on page 20 undefined on input line 300.
+LaTeX Warning: Reference `fig:p7' on page 19 undefined on input line 291.
 
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-[20]
-File: images/H.PNG Graphic file (type QTm)
- <use  "images/H.PNG" >
-Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 估 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 誤 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 配 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 顯 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 著 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 估 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 誤 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 配 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 顯 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 著 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 估 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 誤 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 配 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 顯 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 著 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 估 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 誤 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 配 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 顯 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 著 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 模 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 型 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 估 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 計 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 誤 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no Ｂ in font cmmi12!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 配 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 顯 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 著 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 性 in font [lmroman12-regular]:mapping=tex-text
-!
- [21] [22] [23] [24] [25]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+[19]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [20]
+Overfull \hbox (12.46724pt too wide) in paragraph at lines 314--326
+[][] 
+ []
+
+[21] [22] [23] [24] [25]
 Chapter 5.
 [26
 
@@ -2130,10 +1982,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 33867 strings out of 494004
- 667811 string characters out of 3150891
- 700289 words of memory out of 3000000
- 36589 multiletter control sequences out of 15000+200000
+ 33864 strings out of 494004
+ 667785 string characters out of 3150891
+ 701332 words of memory out of 3000000
+ 36588 multiletter control sequences out of 15000+200000
  13222 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  56i,13n,55p,689b,516s stack positions out of 5000i,500n,10000p,200000b,50000s
