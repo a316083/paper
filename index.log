@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  22 MAY 2013 04:01
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  27 MAY 2013 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1946,12 +1946,7 @@ Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [20]
-Overfull \hbox (12.46724pt too wide) in paragraph at lines 314--326
-[][] 
- []
-
-[21] [22] [23] [24] [25]
+ [20] [21] [22] [23] [24] [25]
 Chapter 5.
 [26
 
@@ -1984,7 +1979,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
 Here is how much of TeX's memory you used:
  33864 strings out of 494004
  667785 string characters out of 3150891
- 701332 words of memory out of 3000000
+ 701333 words of memory out of 3000000
  36588 multiletter control sequences out of 15000+200000
  13222 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
