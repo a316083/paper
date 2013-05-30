@@ -6,8 +6,8 @@
 \contentsline {chapter}{英文摘要}{vi}{section*.5}
 \contentsline {chapter}{誌謝}{viii}{section*.7}
 \contentsline {chapter}{目錄}{ix}{section*.8}
-\contentsline {chapter}{表目錄}{x}{section*.10}
-\contentsline {chapter}{圖目錄}{xi}{section*.12}
+\contentsline {chapter}{表目錄}{xi}{section*.10}
+\contentsline {chapter}{圖目錄}{xii}{section*.12}
 \contentsline {chapter}{\numberline {1}緒論}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}研究背景與動機}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}研究目的}{4}{section.1.2}
