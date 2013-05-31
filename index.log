@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  31 MAY 2013 14:36
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  1 JUN 2013 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1782,123 +1782,10 @@ Chapter 4.
 [17
 
 ]
-Missing character: There is no 次 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 百 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 比 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 次 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 百 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 比 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 次 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 百 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 比 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 次 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 百 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 分 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 比 in font [lmroman12-regular]:mapping=tex-text
-!
 
-
-LaTeX Warning: Reference `tab:e2' on page 18 undefined on input line 132.
+LaTeX Warning: Reference `tab:e2' on page 18 undefined on input line 128.
 
 [18]
-Missing character: There is no 代 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 號 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 平 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 均 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 代 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 號 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 平 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 均 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 代 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 號 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 平 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 均 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 代 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 號 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 平 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 均 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 標 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 準 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 差 in font [lmroman12-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman12-regular]:mapping=tex-text
-!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
@@ -1923,7 +1810,7 @@ Missing character: There is no 數 in font [lmroman12-regular]:mapping=tex-text
 !
 
 
-LaTeX Warning: Reference `fig:p7' on page 20 undefined on input line 271.
+LaTeX Warning: Reference `fig:p7' on page 20 undefined on input line 267.
 
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
@@ -1965,7 +1852,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
 Here is how much of TeX's memory you used:
  33875 strings out of 494004
  667878 string characters out of 3150891
- 699569 words of memory out of 3000000
+ 698591 words of memory out of 3000000
  36599 multiletter control sequences out of 15000+200000
  13222 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
