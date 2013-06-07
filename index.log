@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  4 JUN 2013 22:12
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  8 JUN 2013 01:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1413,14 +1413,8 @@ Package: ulem 2012/05/18
 * line 313.
 *************************************************
 \l__xeCJK_fill_width_dim=\dimen291
-) (./index.aux
-
-LaTeX Warning: Label `tab:PL1' multiply defined.
-
-
-LaTeX Warning: Label `tab:e1' multiply defined.
-
 )
+No file index.aux.
 \openout1 = `index.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -1439,7 +1433,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 38.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 38.
- (/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 38.
@@ -1556,13 +1550,14 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 38.
 LaTeX Info: Redefining \pageref on input line 38.
 LaTeX Info: Redefining \nameref on input line 38.
-
-(./index.out) (./index.out)
 \@outlinefile=\write5
 \openout5 = `index.out'.
 
- ABD: EveryShipout initializing macros
-(./frontpage.tex (./my_names.tex)
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+ABD: EveryShipout initializing macros (./frontpage.tex (./my_names.tex)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -1713,51 +1708,77 @@ Underfull \hbox (badness 10000) detected at line 535
 \EU1/文泉驛正黑(0)/bx/n/24.88 目 錄
  []
 
-(./index.toc [9
-
-])
 \tf@toc=\write6
 \openout6 = `index.toc'.
 
- [10]
+[9
+
+]
 Underfull \hbox (badness 10000) detected at line 547
 \EU1/文泉驛正黑(0)/bx/n/24.88 表 目 錄
  []
 
-(./index.lot)
 \tf@lot=\write7
 \openout7 = `index.lot'.
 
- [11
+[10
 
 ]
 Underfull \hbox (badness 10000) detected at line 559
 \EU1/文泉驛正黑(0)/bx/n/24.88 圖 目 錄
  []
 
-(./index.lof)
 \tf@lof=\write8
 \openout8 = `index.lof'.
 
- [12
+[11
 
 ]) (./chapter1.tex
 Chapter 1.
+
+LaTeX Warning: Reference `fig:yuwei_2011020901' on page 1 undefined on input li
+ne 8.
+
 File: images/yuwei_2011020901.jpg Graphic file (type QTm)
 <use  "images/yuwei_2011020901.jpg" >
+
+LaTeX Warning: Reference `fig:yuwei_2011022005' on page 1 undefined on input li
+ne 17.
+
 File: images/yuwei_2011122005.jpg Graphic file (type QTm)
- <use  "images/yuwei_2011122005.jpg" >
+<use  "images/yuwei_2011122005.jpg" >
+
+LaTeX Warning: Reference `fig:Onlinetrends' on page 1 undefined on input line 2
+8.
+
 [1
 
 ]
 File: images/Onlinetrends.png Graphic file (type QTm)
  <use  "images/Onlinetrends.png" > [2] [3] [4]
+
+LaTeX Warning: Reference `fig:NPC12' on page 5 undefined on input line 73.
+
 File: images/NPC12.png Graphic file (type QTm)
- <use  "images/NPC12.png" >)
-(./chapter2.tex [5] [6]
+<use  "images/NPC12.png" >) (./chapter2.tex [5] [6]
 Chapter 2.
 
+LaTeX Warning: Citation `AMA' on page 7 undefined on input line 9.
+
+
 LaTeX Warning: Citation `Sappington' on page 7 undefined on input line 12.
+
+
+LaTeX Warning: Citation `Farquhar' on page 7 undefined on input line 14.
+
+
+LaTeX Warning: Citation `Rao' on page 7 undefined on input line 16.
+
+
+LaTeX Warning: Citation `Boyd' on page 7 undefined on input line 21.
+
+
+LaTeX Warning: Citation `Laforet' on page 7 undefined on input line 32.
 
 [7
 
@@ -1766,68 +1787,166 @@ Overfull \hbox (5.60341pt too wide) in paragraph at lines 43--64
  [][] 
  []
 
+
+LaTeX Warning: Citation `Aaker1991' on page 8 undefined on input line 67.
+
+
+LaTeX Warning: Citation `Keller1993' on page 8 undefined on input line 69.
+
 [8]
+
+LaTeX Warning: Citation `Keller1998' on page 9 undefined on input line 82.
+
+
+LaTeX Warning: Citation `Aaker1996' on page 9 undefined on input line 92.
+
+
+LaTeX Warning: Citation `Keller1998' on page 9 undefined on input line 94.
+
 File: images/keller2008.png Graphic file (type QTm)
- <use  "images/keller2008.png" > [9] [10]
+<use  "images/keller2008.png" > [9]
+
+LaTeX Warning: Citation `Schiffman' on page 10 undefined on input line 107.
+
+
+LaTeX Warning: Citation `Schiffman' on page 10 undefined on input line 109.
+
+
+LaTeX Warning: Citation `Pratt1974' on page 10 undefined on input line 111.
+
+
+LaTeX Warning: Citation `林靈宏' on page 10 undefined on input line 113.
+
+[10]
 
 LaTeX Warning: Citation `EBK' on page 11 undefined on input line 141.
 
 File: images/ConsumerBehaviorTheory.png Graphic file (type QTm)
 <use  "images/ConsumerBehaviorTheory.png" > [11]
+
+LaTeX Warning: Citation `林靈宏' on page 12 undefined on input line 150.
+
 File: images/影響消費行為的心理因素.png Graphic file (type QTm)
+<use  "images/影響消費行為的心理因素.png" > [12]
 
-<use  "images/影響消費行為的心理因素.png" > [12] [13]
+LaTeX Warning: Reference `fig:Engel' on page 13 undefined on input line 160.
+
+[13]
 File: images/Engel.png Graphic file (type QTm)
-
-<use  "images/Engel.png" > [14] [15]
+ <use  "images/Engel.png" > [14] [15]
 File: images/LaJolla.png Graphic file (type QTm)
  <use  "images/LaJolla.png" >)
 (./chapter3.tex [16]
 Chapter 3.
-[17
 
-]
+LaTeX Warning: Reference `fig:ARC' on page 17 undefined on input line 3.
+
+File: images/論文架構.jpg Graphic file (type QTm)
+<use  "images/論文架構.jpg" > [17
+
+] [18]
 Chapter 4.
-[18
+[19
 
 ]
 
-LaTeX Warning: Reference `tab:e2' on page 19 undefined on input line 128.
-
-[19]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [20]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+LaTeX Warning: Reference `tab:PL1' on page 20 undefined on input line 52.
 
 
-LaTeX Warning: Reference `fig:p7' on page 21 undefined on input line 267.
+LaTeX Warning: Reference `tab:PL2' on page 20 undefined on input line 53.
 
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:PL3' on page 20 undefined on input line 54.
+
+
+LaTeX Warning: Reference `tab:PL4' on page 20 undefined on input line 55.
+
+[20]
+
+LaTeX Warning: Reference `tab:e1' on page 21 undefined on input line 148.
+
+
+LaTeX Warning: Reference `tab:e2' on page 21 undefined on input line 149.
+
+
+LaTeX Warning: Reference `tab:e3' on page 21 undefined on input line 150.
+
+
+LaTeX Warning: Reference `tab:e4' on page 21 undefined on input line 151.
+
 [21]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [22] [23] [24] [25] [26] [27]
-Chapter 5.
-[28
 
-]) [29]
+
+LaTeX Warning: Reference `tab:p4' on page 22 undefined on input line 253.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:p4' on page 22 undefined on input line 255.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:p4' on page 22 undefined on input line 257.
+
+[22]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+
+LaTeX Warning: Reference `tab:p4' on page 23 undefined on input line 259.
+
+
+LaTeX Warning: Reference `fig:p7' on page 23 undefined on input line 287.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:H1' on page 23 undefined on input line 290.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:H2' on page 23 undefined on input line 292.
+
+[23]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+
+LaTeX Warning: Reference `tab:H3' on page 24 undefined on input line 294.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:H4' on page 24 undefined on input line 296.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:H5' on page 24 undefined on input line 298.
+
+[24]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+
+LaTeX Warning: Reference `tab:H5' on page 25 undefined on input line 300.
+
+
+Overfull \hbox (58.67126pt too wide) in paragraph at lines 310--323
+[][] 
+ []
+
+[25] [26] [27] [28] [29]
+Chapter 5.
+[30
+
+]) [31]
 Underfull \hbox (badness 6188) detected at line 70
 \EU1/文泉驛正黑(0)/bx/n/24.88 參 考 文 獻
  []
 
-[30
+[32
 
-] [31]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+] [33]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
  (./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1837,17 +1956,17 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 33879 strings out of 494004
- 667857 string characters out of 3150891
- 701773 words of memory out of 3000000
- 36604 multiletter control sequences out of 15000+200000
+ 33869 strings out of 494004
+ 667750 string characters out of 3150891
+ 707768 words of memory out of 3000000
+ 36605 multiletter control sequences out of 15000+200000
  13222 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  56i,13n,55p,689b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on index.pdf (44 pages).
+Output written on index.pdf (45 pages).

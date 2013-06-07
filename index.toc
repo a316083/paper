@@ -6,8 +6,8 @@
 \contentsline {chapter}{英文摘要}{vi}{section*.5}
 \contentsline {chapter}{誌謝}{viii}{section*.7}
 \contentsline {chapter}{目錄}{ix}{section*.8}
-\contentsline {chapter}{表目錄}{xi}{section*.10}
-\contentsline {chapter}{圖目錄}{xii}{section*.12}
+\contentsline {chapter}{表目錄}{x}{section*.10}
+\contentsline {chapter}{圖目錄}{xi}{section*.12}
 \contentsline {chapter}{\numberline {1}緒論}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}研究背景與動機}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}研究目的}{4}{section.1.2}
@@ -23,11 +23,19 @@
 \contentsline {section}{\numberline {2.6}影響消費購買意願}{13}{section.2.6}
 \contentsline {subsection}{\numberline {2.6.1}購買意願之購買決策過程}{13}{subsection.2.6.1}
 \contentsline {section}{\numberline {2.7}La jolla樂活雅}{14}{section.2.7}
-\contentsline {chapter}{\numberline {3}研究過程}{17}{chapter.3}
-\contentsline {chapter}{\numberline {4}研究結果展示}{18}{chapter.4}
-\contentsline {chapter}{\numberline {5}結論與建議}{28}{chapter.5}
-\contentsline {section}{\numberline {5.1}結論}{28}{section.5.1}
-\contentsline {section}{\numberline {5.2}未來發展建議}{28}{section.5.2}
-\contentsline {section}{\numberline {5.3}後續研究方向}{29}{section.5.3}
-\contentsline {chapter}{參考文獻}{30}{section*.14}
+\contentsline {chapter}{\numberline {3}研究假設與架構}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}概念架構}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}研究假設}{17}{section.3.2}
+\contentsline {chapter}{\numberline {4}研究結果展示}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}資料分析方法}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}變數的定義與衡量}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}敘述統計}{20}{section.4.3}
+\contentsline {section}{\numberline {4.4}信度分析}{21}{section.4.4}
+\contentsline {section}{\numberline {4.5}因素分析}{22}{section.4.5}
+\contentsline {section}{\numberline {4.6}假設之驗證}{23}{section.4.6}
+\contentsline {chapter}{\numberline {5}結論與建議}{30}{chapter.5}
+\contentsline {section}{\numberline {5.1}結論}{30}{section.5.1}
+\contentsline {section}{\numberline {5.2}未來發展建議}{30}{section.5.2}
+\contentsline {section}{\numberline {5.3}後續研究方向}{31}{section.5.3}
+\contentsline {chapter}{參考文獻}{32}{section*.14}
 \contentsfinish 
