@@ -22,7 +22,7 @@
 \contentsline {subsection}{\numberline {2.4.3}消費者決策行為在傳統市場與網路市場中的差異}{13}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}影響消費購買意願}{13}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}購買意願之購買決策過程}{13}{subsection.2.5.1}
-\contentsline {section}{\numberline {2.6}La jolla樂活雅}{15}{section.2.6}
+\contentsline {section}{\numberline {2.6}La jolla樂活雅}{16}{section.2.6}
 \contentsline {chapter}{\numberline {3}研究假設與架構}{20}{chapter.3}
 \contentsline {section}{\numberline {3.1}概念架構}{20}{section.3.1}
 \contentsline {section}{\numberline {3.2}研究假設}{20}{section.3.2}
