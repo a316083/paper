@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  8 JUN 2013 01:31
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  8 JUN 2013 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1065,6 +1065,32 @@ Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count182
 \c@blind@pangrammax=\count183
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+Package morefloats Info: Maximum number of possible floats asked for: 36.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
@@ -1188,31 +1214,31 @@ de.tex
 File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
 \pgf@picminx=\dimen200
 \pgf@picmaxx=\dimen201
-Normal \dimen register pool exhausted, switching to extended pool.
-\pgf@picminy=\dimen256
-\pgf@picmaxy=\dimen257
-\pgf@pathminx=\dimen258
-\pgf@pathmaxx=\dimen259
-\pgf@pathminy=\dimen260
-\pgf@pathmaxy=\dimen261
-\pgf@xx=\dimen262
-\pgf@xy=\dimen263
-\pgf@yx=\dimen264
-\pgf@yy=\dimen265
-\pgf@zx=\dimen266
-\pgf@zy=\dimen267
+\pgf@picminy=\dimen202
+\pgf@picmaxy=\dimen203
+\pgf@pathminx=\dimen204
+\pgf@pathmaxx=\dimen205
+\pgf@pathminy=\dimen206
+\pgf@pathmaxy=\dimen207
+\pgf@xx=\dimen208
+\pgf@xy=\dimen209
+\pgf@yx=\dimen210
+\pgf@yy=\dimen211
+\pgf@zx=\dimen212
+\pgf@zy=\dimen213
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen268
-\pgf@path@lasty=\dimen269
+\pgf@path@lastx=\dimen214
+\pgf@path@lasty=\dimen215
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen270
-\pgf@shorten@start@additional=\dimen271
+Normal \dimen register pool exhausted, switching to extended pool.
+\pgf@shorten@end@additional=\dimen256
+\pgf@shorten@start@additional=\dimen257
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -1225,14 +1251,14 @@ File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen272
+\pgflinewidth=\dimen258
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen273
-\pgf@pt@y=\dimen274
-\pgf@pt@temp=\dimen275
+\pgf@pt@x=\dimen259
+\pgf@pt@y=\dimen260
+\pgf@pt@temp=\dimen261
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1253,7 +1279,7 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen276
+\pgf@max=\dimen262
 \pgf@sys@shading@range@num=\count193
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
@@ -1289,8 +1315,8 @@ File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen277
-\pgf@nodesepend=\dimen278
+\pgf@nodesepstart=\dimen263
+\pgf@nodesepend=\dimen264
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1301,8 +1327,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
 ) (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen279
-\pgffor@skip=\dimen280
+\pgffor@iter=\dimen265
+\pgffor@skip=\dimen266
 \pgffor@stack=\toks36
 \pgffor@toks=\toks37
 ))
@@ -1314,14 +1340,14 @@ Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
 \pgf@plot@mark@count=\count194
-\pgfplotmarksize=\dimen281
+\pgfplotmarksize=\dimen267
 )
-\tikz@lastx=\dimen282
-\tikz@lasty=\dimen283
-\tikz@lastxsaved=\dimen284
-\tikz@lastysaved=\dimen285
-\tikzleveldistance=\dimen286
-\tikzsiblingdistance=\dimen287
+\tikz@lastx=\dimen268
+\tikz@lasty=\dimen269
+\tikz@lastxsaved=\dimen270
+\tikz@lastysaved=\dimen271
+\tikzleveldistance=\dimen272
+\tikzsiblingdistance=\dimen273
 \tikz@figbox=\box58
 \tikz@tempbox=\box59
 \tikztreelevel=\count195
@@ -1336,8 +1362,7 @@ File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 \pgfmatrixcurrentcolumn=\count200
 \pgf@matrix@numberofcolumns=\count201
 )
-Normal \count register pool exhausted, switching to extended pool.
-\tikz@expandcount=\count277
+\tikz@expandcount=\count202
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1348,7 +1373,7 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
 * 
 * Font '文泉驛正黑' does not contain script 'CJK'.
 *************************************************
-\g_fontspec_family_文泉驛正黑_int=\count278
+\g_fontspec_family_文泉驛正黑_int=\count203
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1387,12 +1412,12 @@ Package: xeCJKfntef 2012/12/13 v3.1.1 xeCJK patch file for ulem/CJKfntef
 \UL@hyphenbox=\box61
 \UL@skip=\skip73
 \UL@hook=\toks38
-\UL@height=\dimen288
-\UL@pe=\count279
-\UL@pixel=\dimen289
+\UL@height=\dimen274
+\UL@pe=\count204
+\UL@pixel=\dimen275
 \ULC@box=\box62
 Package: ulem 2012/05/18
-\ULdepth=\dimen290
+\ULdepth=\dimen276
 )
 *************************************************
 * LaTeX warning: "xparse/redefine-command"
@@ -1412,35 +1437,56 @@ Package: ulem 2012/05/18
 * Redefining document environment 'CJKfilltwosides' with arg. spec. 'm' on
 * line 313.
 *************************************************
-\l__xeCJK_fill_width_dim=\dimen291
+\l__xeCJK_fill_width_dim=\dimen277
+) (./index.aux
+
+LaTeX Warning: Label `fig:ConsumerBehaviorTheory' multiply defined.
+
+
+LaTeX Warning: Label `tab:PL1' multiply defined.
+
+
+LaTeX Warning: Label `tab:e1' multiply defined.
+
+
+LaTeX Warning: Label `tab:H3' multiply defined.
+
+
+LaTeX Warning: Label `tab:R3' multiply defined.
+
+
+LaTeX Warning: Label `tab:H4' multiply defined.
+
+
+LaTeX Warning: Label `tab:R011' multiply defined.
+
 )
-No file index.aux.
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 38.
-(/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 41.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1483,81 +1529,80 @@ LaTeX Font Info:    ... okay on input line 38.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
-LaTeX Font Info:    Redeclaring math accent \check on input line 38.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 41.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 41.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 41.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 41.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 41.
+LaTeX Font Info:    Redeclaring math accent \check on input line 41.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 41.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 41.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 38.
+(Font)              `operators' in the math version `normal' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 38.
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 38.
+(Font)              `operators' in the math version `bold' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 38.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 38.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 38.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 38.
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 38.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 38.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 38.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 38.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 38.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 38.
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 38.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 38.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 41.
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 38.
+Package hyperref Info: Link coloring ON on input line 41.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count280
+\c@section@level=\count205
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+
+(./index.out) (./index.out)
 \@outlinefile=\write5
 \openout5 = `index.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-ABD: EveryShipout initializing macros (./frontpage.tex (./my_names.tex)
+ ABD: EveryShipout initializing macros
+(./frontpage.tex (./my_names.tex)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -1708,245 +1753,131 @@ Underfull \hbox (badness 10000) detected at line 535
 \EU1/文泉驛正黑(0)/bx/n/24.88 目 錄
  []
 
+(./index.toc [9
+
+])
 \tf@toc=\write6
 \openout6 = `index.toc'.
 
-[9
-
-]
+ [10] [11]
 Underfull \hbox (badness 10000) detected at line 547
 \EU1/文泉驛正黑(0)/bx/n/24.88 表 目 錄
  []
 
+(./index.lot [12
+
+])
 \tf@lot=\write7
 \openout7 = `index.lot'.
 
-[10
-
-]
+ [13]
 Underfull \hbox (badness 10000) detected at line 559
 \EU1/文泉驛正黑(0)/bx/n/24.88 圖 目 錄
  []
 
+(./index.lof)
 \tf@lof=\write8
 \openout8 = `index.lof'.
 
-[11
+ [14
 
 ]) (./chapter1.tex
 Chapter 1.
-
-LaTeX Warning: Reference `fig:yuwei_2011020901' on page 1 undefined on input li
-ne 8.
-
 File: images/yuwei_2011020901.jpg Graphic file (type QTm)
 <use  "images/yuwei_2011020901.jpg" >
-
-LaTeX Warning: Reference `fig:yuwei_2011022005' on page 1 undefined on input li
-ne 17.
-
 File: images/yuwei_2011122005.jpg Graphic file (type QTm)
-<use  "images/yuwei_2011122005.jpg" >
-
-LaTeX Warning: Reference `fig:Onlinetrends' on page 1 undefined on input line 2
-8.
-
+ <use  "images/yuwei_2011122005.jpg" >
 [1
 
 ]
 File: images/Onlinetrends.png Graphic file (type QTm)
  <use  "images/Onlinetrends.png" > [2] [3] [4]
-
-LaTeX Warning: Reference `fig:NPC12' on page 5 undefined on input line 73.
-
 File: images/NPC12.png Graphic file (type QTm)
-<use  "images/NPC12.png" >) (./chapter2.tex [5] [6]
+ <use  "images/NPC12.png" >)
+(./chapter2.tex [5] [6]
 Chapter 2.
 
-LaTeX Warning: Citation `AMA' on page 7 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Sappington' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation `Farquhar' on page 7 undefined on input line 14.
-
-
-LaTeX Warning: Citation `Rao' on page 7 undefined on input line 16.
-
-
-LaTeX Warning: Citation `Boyd' on page 7 undefined on input line 21.
-
-
-LaTeX Warning: Citation `Laforet' on page 7 undefined on input line 32.
+LaTeX Warning: Citation `Sappington' on page 7 undefined on input line 11.
 
 [7
 
 ]
-Overfull \hbox (5.60341pt too wide) in paragraph at lines 43--64
+Overfull \hbox (5.60341pt too wide) in paragraph at lines 52--73
  [][] 
  []
 
-
-LaTeX Warning: Citation `Aaker1991' on page 8 undefined on input line 67.
-
-
-LaTeX Warning: Citation `Keller1993' on page 8 undefined on input line 69.
-
 [8]
-
-LaTeX Warning: Citation `Keller1998' on page 9 undefined on input line 82.
-
-
-LaTeX Warning: Citation `Aaker1996' on page 9 undefined on input line 92.
-
-
-LaTeX Warning: Citation `Keller1998' on page 9 undefined on input line 94.
-
 File: images/keller2008.png Graphic file (type QTm)
-<use  "images/keller2008.png" > [9]
+ <use  "images/keller2008.png" > [9] [10]
 
-LaTeX Warning: Citation `Schiffman' on page 10 undefined on input line 107.
-
-
-LaTeX Warning: Citation `Schiffman' on page 10 undefined on input line 109.
-
-
-LaTeX Warning: Citation `Pratt1974' on page 10 undefined on input line 111.
-
-
-LaTeX Warning: Citation `林靈宏' on page 10 undefined on input line 113.
-
-[10]
-
-LaTeX Warning: Citation `EBK' on page 11 undefined on input line 141.
+LaTeX Warning: Citation `EBK' on page 11 undefined on input line 167.
 
 File: images/ConsumerBehaviorTheory.png Graphic file (type QTm)
-<use  "images/ConsumerBehaviorTheory.png" > [11]
-
-LaTeX Warning: Citation `林靈宏' on page 12 undefined on input line 150.
-
+<use  "images/ConsumerBehaviorTheory.png" >
 File: images/影響消費行為的心理因素.png Graphic file (type QTm)
-<use  "images/影響消費行為的心理因素.png" > [12]
-
-LaTeX Warning: Reference `fig:Engel' on page 13 undefined on input line 160.
-
-[13]
+ <use  "images/影響消費行為的心理因素.png" > [11] [12]
+File: images/Difference.png Graphic file (type QTm)
+ <use  "images/Difference.png" > [13] [14]
 File: images/Engel.png Graphic file (type QTm)
- <use  "images/Engel.png" > [14] [15]
+
+<use  "images/Engel.png" > [15] [16]
 File: images/LaJolla.png Graphic file (type QTm)
  <use  "images/LaJolla.png" >)
-(./chapter3.tex [16]
+(./chapter3.tex [17] [18] [19]
 Chapter 3.
-
-LaTeX Warning: Reference `fig:ARC' on page 17 undefined on input line 3.
-
 File: images/論文架構.jpg Graphic file (type QTm)
-<use  "images/論文架構.jpg" > [17
+<use  "images/論文架構.jpg" > [20
 
-] [18]
+] [21]
 Chapter 4.
-[19
+[22
 
-]
+] [23]
 
-LaTeX Warning: Reference `tab:PL1' on page 20 undefined on input line 52.
-
-
-LaTeX Warning: Reference `tab:PL2' on page 20 undefined on input line 53.
-
-
-LaTeX Warning: Reference `tab:PL3' on page 20 undefined on input line 54.
-
-
-LaTeX Warning: Reference `tab:PL4' on page 20 undefined on input line 55.
-
-[20]
-
-LaTeX Warning: Reference `tab:e1' on page 21 undefined on input line 148.
-
-
-LaTeX Warning: Reference `tab:e2' on page 21 undefined on input line 149.
-
-
-LaTeX Warning: Reference `tab:e3' on page 21 undefined on input line 150.
-
-
-LaTeX Warning: Reference `tab:e4' on page 21 undefined on input line 151.
-
-[21]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-
-LaTeX Warning: Reference `tab:p4' on page 22 undefined on input line 253.
-
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-LaTeX Warning: Reference `tab:p4' on page 22 undefined on input line 255.
-
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-LaTeX Warning: Reference `tab:p4' on page 22 undefined on input line 257.
-
-[22]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-
-LaTeX Warning: Reference `tab:p4' on page 23 undefined on input line 259.
-
-
-LaTeX Warning: Reference `fig:p7' on page 23 undefined on input line 287.
-
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-LaTeX Warning: Reference `tab:H1' on page 23 undefined on input line 290.
-
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-LaTeX Warning: Reference `tab:H2' on page 23 undefined on input line 292.
-
-[23]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-
-LaTeX Warning: Reference `tab:H3' on page 24 undefined on input line 294.
-
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-LaTeX Warning: Reference `tab:H4' on page 24 undefined on input line 296.
-
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-
-LaTeX Warning: Reference `tab:H5' on page 24 undefined on input line 298.
+LaTeX Warning: Reference `tab:e2' on page 24 undefined on input line 162.
 
 [24]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [25]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 
 
-LaTeX Warning: Reference `tab:H5' on page 25 undefined on input line 300.
+LaTeX Warning: Reference `fig:p7' on page 26 undefined on input line 300.
 
 
-Overfull \hbox (58.67126pt too wide) in paragraph at lines 310--323
-[][] 
- []
+LaTeX Warning: Reference `tab:H1' on page 26 undefined on input line 303.
 
-[25] [26] [27] [28] [29]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: Reference `tab:H1' on page 26 undefined on input line 305.
+
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+[26]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [27]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [28] [29] [30] [31] [32] [33]
 Chapter 5.
-[30
+[34
 
-]) [31]
-Underfull \hbox (badness 6188) detected at line 70
+]) [35]
+Underfull \hbox (badness 6188) detected at line 73
 \EU1/文泉驛正黑(0)/bx/n/24.88 參 考 文 獻
  []
 
-[32
+[36
 
-] [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+] [37]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
  (./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 171.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 171.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1956,17 +1887,17 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
  ) 
 Here is how much of TeX's memory you used:
- 33869 strings out of 494004
- 667750 string characters out of 3150891
- 707768 words of memory out of 3000000
- 36605 multiletter control sequences out of 15000+200000
+ 33943 strings out of 494004
+ 668746 string characters out of 3150891
+ 715983 words of memory out of 3000000
+ 36662 multiletter control sequences out of 15000+200000
  13222 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 56i,13n,55p,689b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,13n,55p,689b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on index.pdf (45 pages).
+Output written on index.pdf (52 pages).
