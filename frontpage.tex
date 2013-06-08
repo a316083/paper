@@ -541,6 +541,8 @@
 % List of Tables
 \newpage
 \renewcommand{\listtablename}{\protect\makebox[5cm][s]{\nameLot}}
+%\renewcommand{\numberline}[1]{\loflabel~#1\hspace*{1em}}
+\renewcommand{\numberline}[1]{\lotlabel~#1\hspace*{1em}}   
 %\makebox{} is fragile; need protect
 \phantomsection % for hyperref to register this
 \addcontentsline{toc}{chapter}{\nameLot}
@@ -553,6 +555,8 @@
 % List of Figures
 \newpage
 \renewcommand{\listfigurename}{\protect\makebox[5cm][s]{\nameTof}}
+\renewcommand{\numberline}[1]{\loflabel~#1\hspace*{1em}}
+%\renewcommand{\numberline}[1]{\lotlabel~#1\hspace*{1em}}   
 %\makebox{} is fragile; need protect
 \phantomsection % for hyperref to register this
 \addcontentsline{toc}{chapter}{\nameTof}
