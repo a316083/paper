@@ -35,7 +35,7 @@
 \contentsline {section}{\numberline {4.6}假設之驗證}{26}{section.4.6}
 \contentsline {chapter}{\numberline {5}結論與建議}{34}{chapter.5}
 \contentsline {section}{\numberline {5.1}結論}{34}{section.5.1}
-\contentsline {section}{\numberline {5.2}未來發展建議}{34}{section.5.2}
+\contentsline {section}{\numberline {5.2}未來發展建議}{35}{section.5.2}
 \contentsline {section}{\numberline {5.3}後續研究方向}{35}{section.5.3}
 \contentsline {chapter}{參考文獻}{36}{section*.14}
 \contentsfinish 
