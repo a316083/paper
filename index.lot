@@ -1,32 +1,34 @@
 \select@language {english}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces 文獻整理}}{19}{table.2.1}
+\contentsline {table}{\numberline {2.1}{\ignorespaces 文獻整理}}{18}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces 文獻整理}}{19}{table.2.2}
+\contentsline {table}{\numberline {2.3}{\ignorespaces 文獻整理}}{20}{table.2.3}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces 敘述統計(性別)}}{23}{table.4.1}
-\contentsline {table}{\numberline {4.2}{\ignorespaces 敘述統計(年齡)}}{24}{table.4.2}
-\contentsline {table}{\numberline {4.3}{\ignorespaces 敘述統計(學歷)}}{25}{table.4.3}
-\contentsline {table}{\numberline {4.4}{\ignorespaces 敘述統計(工作性質)}}{26}{table.4.4}
-\contentsline {table}{\numberline {4.5}{\ignorespaces 信度 (消費者決策)}}{27}{table.4.5}
-\contentsline {table}{\numberline {4.6}{\ignorespaces 信度 (品牌知覺)}}{28}{table.4.6}
-\contentsline {table}{\numberline {4.7}{\ignorespaces 信度 (品牌聲望)}}{29}{table.4.7}
-\contentsline {table}{\numberline {4.8}{\ignorespaces 信度 (消費者滿意度)}}{29}{table.4.8}
-\contentsline {table}{\numberline {4.9}{\ignorespaces 因數分析}}{30}{table.4.9}
-\contentsline {table}{\numberline {4.10}{\ignorespaces 假設}}{30}{table.4.10}
-\contentsline {table}{\numberline {4.11}{\ignorespaces 簡單回歸R（A.預測變數：知覺Ｂ.依變數：聲望）}}{30}{table.4.11}
-\contentsline {table}{\numberline {4.12}{\ignorespaces 簡單回歸（依變數：聲望構面）}}{30}{table.4.12}
-\contentsline {table}{\numberline {4.13}{\ignorespaces 簡單回歸R（A.預測變數：聲望Ｂ.依變數：知覺）}}{31}{table.4.13}
-\contentsline {table}{\numberline {4.14}{\ignorespaces 簡單回歸（依變數：知覺構面）}}{31}{table.4.14}
-\contentsline {table}{\numberline {4.15}{\ignorespaces 簡單回歸R（A.預測變數：知覺Ｂ.依變數：決策）}}{31}{table.4.15}
-\contentsline {table}{\numberline {4.16}{\ignorespaces 簡單回歸（依變數：決策的構面）}}{31}{table.4.16}
-\contentsline {table}{\numberline {4.17}{\ignorespaces 簡單回歸R（A.預測變數：聲望Ｂ.依變數：決策）}}{31}{table.4.17}
-\contentsline {table}{\numberline {4.18}{\ignorespaces 簡單回歸（依變數：決策的構面）}}{32}{table.4.18}
-\contentsline {table}{\numberline {4.19}{\ignorespaces 簡單回歸R（A.預測變數：知覺Ｂ.依變數：滿意度）}}{32}{table.4.19}
-\contentsline {table}{\numberline {4.20}{\ignorespaces 簡單回歸（依變數：滿意度構面）}}{32}{table.4.20}
-\contentsline {table}{\numberline {4.21}{\ignorespaces 簡單回歸R（A.預測變數：聲望Ｂ.依變數：滿意度）}}{32}{table.4.21}
-\contentsline {table}{\numberline {4.22}{\ignorespaces 簡單回歸（依變數：滿意度構面）}}{32}{table.4.22}
-\contentsline {table}{\numberline {4.23}{\ignorespaces 簡單回歸R（A.預測變數：決策Ｂ.依變數：滿意度）}}{33}{table.4.23}
-\contentsline {table}{\numberline {4.24}{\ignorespaces 簡單回歸（依變數：滿意的構面）}}{33}{table.4.24}
+\contentsline {table}{\numberline {4.1}{\ignorespaces 敘述統計(性別)}}{24}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces 敘述統計(年齡)}}{25}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces 敘述統計(學歷)}}{26}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces 敘述統計(工作性質)}}{27}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces 信度 (消費者決策)}}{28}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces 信度 (品牌知覺)}}{29}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces 信度 (品牌聲望)}}{30}{table.4.7}
+\contentsline {table}{\numberline {4.8}{\ignorespaces 信度 (消費者滿意度)}}{30}{table.4.8}
+\contentsline {table}{\numberline {4.9}{\ignorespaces 因數分析}}{31}{table.4.9}
+\contentsline {table}{\numberline {4.10}{\ignorespaces 假設}}{31}{table.4.10}
+\contentsline {table}{\numberline {4.11}{\ignorespaces 簡單回歸R（A.預測變數：知覺Ｂ.依變數：聲望）}}{31}{table.4.11}
+\contentsline {table}{\numberline {4.12}{\ignorespaces 簡單回歸（依變數：聲望構面）}}{31}{table.4.12}
+\contentsline {table}{\numberline {4.13}{\ignorespaces 簡單回歸R（A.預測變數：聲望Ｂ.依變數：知覺）}}{32}{table.4.13}
+\contentsline {table}{\numberline {4.14}{\ignorespaces 簡單回歸（依變數：知覺構面）}}{32}{table.4.14}
+\contentsline {table}{\numberline {4.15}{\ignorespaces 簡單回歸R（A.預測變數：知覺Ｂ.依變數：決策）}}{32}{table.4.15}
+\contentsline {table}{\numberline {4.16}{\ignorespaces 簡單回歸（依變數：決策的構面）}}{32}{table.4.16}
+\contentsline {table}{\numberline {4.17}{\ignorespaces 簡單回歸R（A.預測變數：聲望Ｂ.依變數：決策）}}{32}{table.4.17}
+\contentsline {table}{\numberline {4.18}{\ignorespaces 簡單回歸（依變數：決策的構面）}}{33}{table.4.18}
+\contentsline {table}{\numberline {4.19}{\ignorespaces 簡單回歸R（A.預測變數：知覺Ｂ.依變數：滿意度）}}{33}{table.4.19}
+\contentsline {table}{\numberline {4.20}{\ignorespaces 簡單回歸（依變數：滿意度構面）}}{33}{table.4.20}
+\contentsline {table}{\numberline {4.21}{\ignorespaces 簡單回歸R（A.預測變數：聲望Ｂ.依變數：滿意度）}}{33}{table.4.21}
+\contentsline {table}{\numberline {4.22}{\ignorespaces 簡單回歸（依變數：滿意度構面）}}{33}{table.4.22}
+\contentsline {table}{\numberline {4.23}{\ignorespaces 簡單回歸R（A.預測變數：決策Ｂ.依變數：滿意度）}}{34}{table.4.23}
+\contentsline {table}{\numberline {4.24}{\ignorespaces 簡單回歸（依變數：滿意的構面）}}{34}{table.4.24}
 \addvspace {10\p@ }
 \contentsfinish 
