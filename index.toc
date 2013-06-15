@@ -6,8 +6,8 @@
 \contentsline {chapter}{英文摘要}{vi}{section*.5}
 \contentsline {chapter}{誌謝}{vii}{section*.7}
 \contentsline {chapter}{目錄}{viii}{section*.8}
-\contentsline {chapter}{表目錄}{ix}{section*.10}
-\contentsline {chapter}{圖目錄}{x}{section*.12}
+\contentsline {chapter}{表目錄}{xi}{section*.10}
+\contentsline {chapter}{圖目錄}{xiii}{section*.12}
 \contentsline {chapter}{\numberline {1}緒論}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}研究背景與動機}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}研究目的}{4}{section.1.2}
@@ -24,20 +24,20 @@
 \contentsline {subsection}{\numberline {2.5.1}購買意願之購買決策過程}{13}{subsection.2.5.1}
 \contentsline {subsection}{\numberline {2.5.2}消費者滿意度}{15}{subsection.2.5.2}
 \contentsline {section}{\numberline {2.6}La jolla樂活雅}{16}{section.2.6}
-\contentsline {chapter}{\numberline {3}研究假設與架構}{22}{chapter.3}
-\contentsline {section}{\numberline {3.1}概念架構}{22}{section.3.1}
-\contentsline {section}{\numberline {3.2}研究假設}{22}{section.3.2}
-\contentsline {section}{\numberline {3.3}研究對象與抽樣方法}{23}{section.3.3}
-\contentsline {section}{\numberline {3.4}變數的定義與衡量}{24}{section.3.4}
-\contentsline {section}{\numberline {3.5}資料分析方法}{24}{section.3.5}
-\contentsline {chapter}{\numberline {4}研究結果展示}{25}{chapter.4}
-\contentsline {section}{\numberline {4.1}敘述統計}{25}{section.4.1}
-\contentsline {section}{\numberline {4.2}信度分析}{26}{section.4.2}
-\contentsline {section}{\numberline {4.3}因素分析}{27}{section.4.3}
-\contentsline {section}{\numberline {4.4}假設之驗證}{28}{section.4.4}
-\contentsline {chapter}{\numberline {5}結論與建議}{36}{chapter.5}
-\contentsline {section}{\numberline {5.1}結論}{36}{section.5.1}
-\contentsline {section}{\numberline {5.2}未來發展建議}{37}{section.5.2}
-\contentsline {section}{\numberline {5.3}後續研究方向}{37}{section.5.3}
-\contentsline {chapter}{參考文獻}{38}{section*.14}
+\contentsline {chapter}{\numberline {3}研究假設與架構}{24}{chapter.3}
+\contentsline {section}{\numberline {3.1}概念架構}{24}{section.3.1}
+\contentsline {section}{\numberline {3.2}研究假設}{24}{section.3.2}
+\contentsline {section}{\numberline {3.3}研究對象與抽樣方法}{25}{section.3.3}
+\contentsline {section}{\numberline {3.4}變數的定義與衡量}{26}{section.3.4}
+\contentsline {section}{\numberline {3.5}資料分析方法}{26}{section.3.5}
+\contentsline {chapter}{\numberline {4}研究結果展示}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}敘述統計}{27}{section.4.1}
+\contentsline {section}{\numberline {4.2}信度分析}{28}{section.4.2}
+\contentsline {section}{\numberline {4.3}因素分析}{29}{section.4.3}
+\contentsline {section}{\numberline {4.4}假設之驗證}{30}{section.4.4}
+\contentsline {chapter}{\numberline {5}結論與建議}{38}{chapter.5}
+\contentsline {section}{\numberline {5.1}結論}{38}{section.5.1}
+\contentsline {section}{\numberline {5.2}未來發展建議}{39}{section.5.2}
+\contentsline {section}{\numberline {5.3}後續研究方向}{39}{section.5.3}
+\contentsline {chapter}{參考文獻}{40}{section*.14}
 \contentsfinish 
