@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  15 JUN 2013 19:01
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  16 JUN 2013 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1455,6 +1455,9 @@ LaTeX Warning: Label `tab:PL3' multiply defined.
 LaTeX Warning: Label `tab:PL4' multiply defined.
 
 
+LaTeX Warning: Label `汪澤普' multiply defined.
+
+
 LaTeX Warning: Label `藍悅真' multiply defined.
 
 )
@@ -1625,7 +1628,7 @@ Underfull \hbox (badness 10000) detected at line 94
 
 
 Underfull \hbox (badness 10000) detected at line 124
-\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 一 百 零 一 年 七 月
+\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 一 百 零 二 年 六 月
  []
 
 [1
@@ -1662,7 +1665,7 @@ Underfull \hbox (badness 7851) detected at line 221
 
 
 Underfull \hbox (badness 4569) detected at line 254
-\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 一 百 零 一 年 七 月
+\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 一 百 零 二 年 六 月
  []
 
 
@@ -1796,48 +1799,43 @@ Chapter 2.
 [7
 
 ]
-Overfull \hbox (5.60341pt too wide) in paragraph at lines 51--71
+Overfull \hbox (24.86343pt too wide) in paragraph at lines 60--89
  [][] 
  []
 
-[8] [9]
-
-LaTeX Warning: Citation `EBK' on page 10 undefined on input line 167.
-
+[8] [9] [10]
 File: images/ConsumerBehaviorTheory.png Graphic file (type QTm)
-<use  "images/ConsumerBehaviorTheory.png" > [10] [11]
-Overfull \hbox (13.10344pt too wide) in paragraph at lines 210--226
+ <use  "images/ConsumerBehaviorTheory.png" > [11] [12]
+Overfull \hbox (13.10344pt too wide) in paragraph at lines 231--247
  [][] 
  []
 
 File: images/影響消費行為的心理因素.png Graphic file (type QTm)
-<use  "images/影響消費行為的心理因素.png" >
+<use  "images/影響消費行為的心理因素.png" > [13]
+Missing character: There is no ￼ in font [lmroman12-regular]:mapping=tex-text
+!
 File: images/Difference.png Graphic file (type QTm)
 
-<use  "images/Difference.png" > [12] [13] [14] [15]
+<use  "images/Difference.png" > [14] [15] [16]
 File: images/Engel.png Graphic file (type QTm)
  <use  "images/Engel.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 []|\EU1/lmr/m/n/12 1977,
  []
 
-[16] [17]
+[17] [18]
 File: images/LaJolla.png Graphic file (type QTm)
- <use  "images/LaJolla.png" >) (./chapter3.tex [18] [19] [20] [21]
-[22] [23]
+ <use  "images/LaJolla.png" >) (./chapter3.tex [19] [20] [21] [22]
+[23] [24]
 Chapter 3.
-File: images/論文架構.jpg Graphic file (type QTm)
-<use  "images/論文架構.jpg" > [24
+File: images/論文架構.png Graphic file (type QTm)
+<use  "images/論文架構.png" > [25
 
-] [25] [26]
+] [26] [27]
 Chapter 4.
-[27
+[28
 
-] [28]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [29]
+] [29]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
@@ -1848,43 +1846,44 @@ Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
  [31]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [32] [33] [34] [35] [36] [37]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [32]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [33] [34] [35] [36] [37] [38]
 Chapter 5.
-[38
+[39
 
-]) [39]
+]) [40]
 Underfull \hbox (badness 6188) detected at line 73
 \EU1/文泉驛正黑(0)/bx/n/24.88 參 考 文 獻
  []
 
-[40
+[41
 
-] [41] [42]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+] [42] [43] [44]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
  (./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 189.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 205.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 205.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
  ) 
 Here is how much of TeX's memory you used:
- 33952 strings out of 494004
- 669004 string characters out of 3150891
- 719553 words of memory out of 3000000
- 36672 multiletter control sequences out of 15000+200000
- 13222 words of font info for 75 fonts, out of 3000000 for 9000
+ 33987 strings out of 494004
+ 670318 string characters out of 3150891
+ 722871 words of memory out of 3000000
+ 36708 multiletter control sequences out of 15000+200000
+ 13214 words of font info for 74 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  56i,13n,55p,624b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on index.pdf (56 pages).
+Output written on index.pdf (58 pages).
