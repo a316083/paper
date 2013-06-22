@@ -1,1 +1,21 @@
-.DS_Store *.swp *~ *.lo?  *.toc *.fdb* *.aux *.bbl *.out
+.DS_Store 
+*.swp 
+*~ 
+*.lo? 
+*.toc 
+*.fdb*
+*.aux 
+*.bbl
+*.out 
+index.synctex.gz
+
+
+.DS_Store
+
+*.out
+
+*.log
+
+*.aux
+
+index.aux
