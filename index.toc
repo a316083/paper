@@ -35,9 +35,11 @@
 \contentsline {section}{\numberline {4.2}信度分析}{31}{section.4.2}
 \contentsline {section}{\numberline {4.3}因素分析}{32}{section.4.3}
 \contentsline {section}{\numberline {4.4}假設之驗證}{33}{section.4.4}
-\contentsline {chapter}{\numberline {5}結論與建議}{42}{chapter.5}
-\contentsline {section}{\numberline {5.1}結論}{42}{section.5.1}
-\contentsline {section}{\numberline {5.2}未來發展建議}{43}{section.5.2}
-\contentsline {section}{\numberline {5.3}後續研究方向}{43}{section.5.3}
-\contentsline {chapter}{參考文獻}{44}{section*.14}
+\contentsline {section}{\numberline {4.5}多元迴歸}{37}{section.4.5}
+\contentsline {section}{\numberline {4.6}路徑分析}{37}{section.4.6}
+\contentsline {chapter}{\numberline {5}結論與建議}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}結論}{44}{section.5.1}
+\contentsline {section}{\numberline {5.2}未來發展建議}{45}{section.5.2}
+\contentsline {section}{\numberline {5.3}後續研究方向}{45}{section.5.3}
+\contentsline {chapter}{參考文獻}{46}{section*.14}
 \contentsfinish 
