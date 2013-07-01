@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  1 JUL 2013 09:53
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  1 JUL 2013 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1877,9 +1877,13 @@ Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
  [35]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Missing character: There is no ∼ in font [lmroman12-regular]:mapping=tex-text
 !
- [36] [37] [38] [39] [40]
+[36] [37] [38] [39] [40]
 Overfull \hbox (35.75119pt too wide) in paragraph at lines 649--656
  [][] 
  []
