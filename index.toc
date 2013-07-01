@@ -33,13 +33,13 @@
 \contentsline {chapter}{\numberline {4}研究結果展示}{30}{chapter.4}
 \contentsline {section}{\numberline {4.1}敘述統計}{30}{section.4.1}
 \contentsline {section}{\numberline {4.2}信度分析}{32}{section.4.2}
-\contentsline {section}{\numberline {4.3}因素分析}{34}{section.4.3}
-\contentsline {section}{\numberline {4.4}假設之驗證}{36}{section.4.4}
-\contentsline {section}{\numberline {4.5}多元迴歸}{39}{section.4.5}
-\contentsline {section}{\numberline {4.6}路徑分析}{44}{section.4.6}
-\contentsline {chapter}{\numberline {5}結論與建議}{48}{chapter.5}
-\contentsline {section}{\numberline {5.1}結論}{48}{section.5.1}
-\contentsline {section}{\numberline {5.2}未來發展建議}{49}{section.5.2}
-\contentsline {section}{\numberline {5.3}後續研究方向}{49}{section.5.3}
-\contentsline {chapter}{參考文獻}{50}{section*.14}
+\contentsline {section}{\numberline {4.3}因素分析}{36}{section.4.3}
+\contentsline {section}{\numberline {4.4}假設之驗證}{37}{section.4.4}
+\contentsline {section}{\numberline {4.5}多元迴歸}{43}{section.4.5}
+\contentsline {section}{\numberline {4.6}路徑分析}{46}{section.4.6}
+\contentsline {chapter}{\numberline {5}結論與建議}{50}{chapter.5}
+\contentsline {section}{\numberline {5.1}結論}{50}{section.5.1}
+\contentsline {section}{\numberline {5.2}未來發展建議}{51}{section.5.2}
+\contentsline {section}{\numberline {5.3}後續研究方向}{51}{section.5.3}
+\contentsline {chapter}{參考文獻}{52}{section*.14}
 \contentsfinish 

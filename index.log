@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  1 JUL 2013 16:10
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  1 JUL 2013 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1856,79 +1856,79 @@ File: images/論文架構.png Graphic file (type QTm)
 Chapter 4.
 [30
 
-] [31] [32] [33]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [34]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
- [35]
-Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+] [31] [32] [33] [34] [35]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
  [36]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
  [37]
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [38]
+Missing character: There is no α in font [lmroman12-regular]:mapping=tex-text!
+ [39] [40] [41] [42]
 Missing character: There is no ∼ in font [lmroman12-regular]:mapping=tex-text
 !
- [38] [39] [40] [41] [42]
-Overfull \hbox (35.75119pt too wide) in paragraph at lines 655--662
+ [43] [44]
+Overfull \hbox (35.75119pt too wide) in paragraph at lines 649--656
  [][] 
  []
 
 
-Overfull \hbox (35.75119pt too wide) in paragraph at lines 672--679
+Overfull \hbox (35.75119pt too wide) in paragraph at lines 666--673
  [][] 
  []
 
 
-Overfull \hbox (56.1752pt too wide) in paragraph at lines 688--701
+Overfull \hbox (56.1752pt too wide) in paragraph at lines 682--695
  [][] 
  []
 
 
-Overfull \hbox (43.5752pt too wide) in paragraph at lines 710--717
+Overfull \hbox (43.5752pt too wide) in paragraph at lines 704--711
  [][] 
  []
 
 
-Overfull \hbox (35.75119pt too wide) in paragraph at lines 726--733
+Overfull \hbox (35.75119pt too wide) in paragraph at lines 720--727
+ [][] 
+ []
+
+[45]
+Overfull \hbox (44.1752pt too wide) in paragraph at lines 736--743
  [][] 
  []
 
 
-Overfull \hbox (44.1752pt too wide) in paragraph at lines 742--749
+Overfull \hbox (29.87119pt too wide) in paragraph at lines 752--759
  [][] 
  []
 
-
-Overfull \hbox (29.87119pt too wide) in paragraph at lines 758--765
- [][] 
- []
-
-[43] [44]
+[46]
 File: images/論文架構.png Graphic file (type QTm)
- <use  "images/論文架構.png" >
+ <use  "images/論文架構.png" > [47]
+File: images/路徑分析.png Graphic file (type QTm)
+ <use  "images/路徑分析.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45]
-File: images/路徑分析.png Graphic file (type QTm)
- <use  "images/路徑分析.png" > [46] [47]
+[48] [49]
 Chapter 5.
-[48
+[50
 
-]) [49]
+]) [51]
 Underfull \hbox (badness 10000) detected at line 75
 \EU1/文泉驛正黑(0)/bx/n/24.88 參 考 文 獻
  []
 
-[50
+[52
 
-] [51] [52]
+] [53] [54]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
  (./index.aux)
@@ -1945,12 +1945,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
- 34031 strings out of 494004
- 670009 string characters out of 3150891
+ 34029 strings out of 494004
+ 669931 string characters out of 3150891
  723169 words of memory out of 3000000
- 36747 multiletter control sequences out of 15000+200000
+ 36745 multiletter control sequences out of 15000+200000
  13214 words of font info for 74 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  56i,13n,55p,624b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on index.pdf (66 pages).
+Output written on index.pdf (68 pages).
