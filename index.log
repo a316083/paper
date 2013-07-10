@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  1 JUL 2013 16:27
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.2)  10 JUL 2013 18:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1645,7 +1645,9 @@ Underfull \hbox (badness 10000) detected at line 96
 
 
 Underfull \hbox (badness 10000) detected at line 126
-\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 一 百 零 二 年 六 月
+\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 \EU1/lmr/m/n/17.28 102 \EU1/�
+��泉驛正黑(0)/m/n/17.28 年 \EU1/lmr/m/n/17.28 6 \EU1/文泉驛正黑(0)/m/
+n/17.28 月
  []
 
 [1
@@ -1681,8 +1683,10 @@ Underfull \hbox (badness 5388) detected at line 223
  []
 
 
-Underfull \hbox (badness 3138) detected at line 256
-\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 一 百 零 二 年 六 月
+Underfull \hbox (badness 10000) detected at line 256
+\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 \EU1/lmr/m/n/17.28 102 \EU1/�
+��泉驛正黑(0)/m/n/17.28 年 \EU1/lmr/m/n/17.28 6 \EU1/文泉驛正黑(0)/m/
+n/17.28 月
  []
 
 
@@ -1737,6 +1741,13 @@ Overfull \hbox (147.62737pt too wide) in paragraph at lines 301--316
 [][] 
  []
 
+
+Underfull \hbox (badness 4048) detected at line 320
+\EU1/文泉驛正黑(0)/m/n/17.28 中 華 民 國 \EU1/lmr/m/n/17.28 102 \EU1/�
+��泉驛正黑(0)/m/n/17.28 年 \EU1/lmr/m/n/17.28 6 \EU1/文泉驛正黑(0)/m/
+n/17.28 月 \EU1/lmr/m/n/17.28 26 \EU1/文泉驛正黑(0)/m/n/17.28 日
+ []
+
 [2
 
 ] [3
@@ -1767,7 +1778,7 @@ Underfull \hbox (badness 10000) detected at line 524
 
 ]
 Underfull \hbox (badness 10000) detected at line 539
-\EU1/文泉驛正黑(0)/bx/n/24.88 目 錄
+\EU1/文泉驛正黑(0)/bx/n/24.88 目 次
  []
 
 (./index.toc [7
@@ -1801,17 +1812,21 @@ Underfull \hbox (badness 10000) detected at line 567
 ]) (./chapter1.tex
 Chapter 1.
 File: images/yuwei_2011020901.jpg Graphic file (type QTm)
-<use  "images/yuwei_2011020901.jpg" >
-File: images/yuwei_2011122005.jpg Graphic file (type QTm)
- <use  "images/yuwei_2011122005.jpg" >
-[1
+<use  "images/yuwei_2011020901.jpg" > [1
 
 ]
-File: images/Onlinetrends.png Graphic file (type QTm)
- <use  "images/Onlinetrends.png" > [2] [3] [4] [5]
-File: images/NPC12.png Graphic file (type QTm)
+Overfull \vbox (50.53766pt too high) has occurred while \output is active []
 
-<use  "images/NPC12.png" >) (./chapter2.tex [6]
+
+[2]
+File: images/Onlinetrends.png Graphic file (type QTm)
+ <use  "images/Onlinetrends.png" > [3] [4]
+File: images/NPC12.png Graphic file (type QTm)
+ <use  "images/NPC12.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./chapter2.tex [5] [6]
 Chapter 2.
 [7
 
@@ -1945,8 +1960,8 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
- 34029 strings out of 494004
- 669931 string characters out of 3150891
+ 34028 strings out of 494004
+ 669923 string characters out of 3150891
  723169 words of memory out of 3000000
  36745 multiletter control sequences out of 15000+200000
  13214 words of font info for 74 fonts, out of 3000000 for 9000

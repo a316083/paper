@@ -5,7 +5,7 @@
 \contentsline {chapter}{中文摘要}{iv}{section*.4}
 \contentsline {chapter}{英文摘要}{v}{section*.5}
 \contentsline {chapter}{誌謝}{vi}{section*.7}
-\contentsline {chapter}{目錄}{vii}{section*.8}
+\contentsline {chapter}{目次}{vii}{section*.8}
 \contentsline {chapter}{表目錄}{x}{section*.10}
 \contentsline {chapter}{圖目錄}{xiii}{section*.12}
 \contentsline {chapter}{\numberline {1}緒論}{1}{chapter.1}
