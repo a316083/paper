@@ -8,14 +8,8 @@
 *.bbl
 *.out 
 index.synctex.gz
-
-
 .DS_Store
-
 *.out
-
 *.log
-
 *.aux
-
 index.aux
