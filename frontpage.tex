@@ -132,12 +132,45 @@
 % restore the font size to normal
 \normalsize
 \end{titlepage}
-%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  TPCU Side Page 論文的書背
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Command to generate the side page.
+\renewcommand{\baselinestretch}{0.8}  % 論文行距設定為 1
+\setCJKfamilyfont{heivert}[Vertical=RotatedGlyphs]{微軟正黑體}
+% 解決 中英文混何直排時，英文太靠右的問題
+\newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
+\newcommand*\CJKmove{\punctstyle{plain}% do not modify the spacing between punctuations
+  \let\CJKsymbol\CJKmovesymbol
+  \let\CJKpunctsymbol\CJKsymbol
+}
+
+\begin{center}
+\thispagestyle{empty}
+\CJKfamily{heivert}\CJKmove
+\fontsize{14}{14}\selectfont
+\noindent\rotatebox{-90}{
+\begin{tabular}{%
+	m{3cm}m{0.1cm}m{2cm}m{0.1cm}m{11cm}m{1cm}m{2.5cm}m{0.1cm}m{1.5cm}}
+\fontsize{8}{6}\selectfont\univCname
+\newline
+\deptCname & & 
+碩士論文 & &
+{\fontsize{14}{12}\selectfont\cTitle} & &
+{\fontsize{14}{14}\myCname 撰} & &
+\rotatebox{90}{\cYear} \rotatebox{90}{\hspace{0.45em}\cMonth}
+\end{tabular}
+}
+\end{center}
 
 %% 從摘要到本文之前的部份以小寫羅馬數字印頁碼
 % 但是從「書名頁」(但不印頁碼) 就開始計算
+\renewcommand{\baselinestretch}{\mybaselinestretch}  % 論文行距預設值
 \setcounter{page}{1}
 \pagenumbering{roman}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %       書名頁
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
